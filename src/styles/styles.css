@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'NMS-Glyphs-Mono';
+  src:
+    local('NMS-Glyphs-Mono'),
+    url('../assets/NMS-Glyphs-Mono.ttf') format('truetype');
+}
+
+html {
+  scrollbar-gutter: stable;
+}
+
+.container {
+  margin-block: 1rem;
+}
