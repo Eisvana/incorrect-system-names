@@ -3,7 +3,12 @@ import { ref, computed } from 'vue';
 import systems from './assets/systems.json';
 import ListItem from './components/ListItem.vue';
 
-const searchTerm = ref('');
+const url = window.location;
+const params = new URLSearchParams(url.search);
+
+const paramSearch = params.get('name');
+
+const searchTerm = ref(paramSearch ?? '');
 
 const filteredData = computed(() => systems.filter((item) => item.Discoverer.includes(searchTerm.value)));
 </script>
