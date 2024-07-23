@@ -53,12 +53,6 @@ h1 {
   text-align: center;
 }
 
-.list {
-  display: grid;
-  grid-template-columns: repeat(5, auto);
-  gap: 0.5rem;
-}
-
 .filter {
   max-width: 450px;
   margin-inline: auto;
