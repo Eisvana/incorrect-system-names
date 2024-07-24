@@ -33,7 +33,7 @@ watchEffect(() => {
         type="checkbox"
       />
     </td>
-    <td :class="{ italic: !data.Name }">{{ data.Name || 'unknown (procedural name)' }}</td>
+    <td :class="{ italic: !data.Name }">{{ data.Name || 'procedural name' }}</td>
     <td class="glyphs">{{ data.Glyphs }}</td>
     <td>{{ expectedName }}</td>
     <td>{{ data.Discoverer }}</td>
