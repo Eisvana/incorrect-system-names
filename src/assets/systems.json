@@ -447,7 +447,7 @@
     "Platform": "PS",
     "Timestamp": 1697430750000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -457,7 +457,7 @@
     "Platform": "XB",
     "Timestamp": 1704847316000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -607,7 +607,7 @@
     "Platform": "ST",
     "Timestamp": 1712492582000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 3
   },
   {
     "Category": "SolarSystem",
@@ -627,7 +627,7 @@
     "Platform": "ST",
     "Timestamp": 1708178305000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -777,7 +777,7 @@
     "Platform": "PS",
     "Timestamp": 1708903238000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -787,7 +787,7 @@
     "Platform": "XB",
     "Timestamp": 1712376378000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -797,7 +797,7 @@
     "Platform": "PS",
     "Timestamp": 1706477824000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -807,7 +807,7 @@
     "Platform": "XB",
     "Timestamp": 1713772816000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -1677,7 +1677,7 @@
     "Platform": "XB",
     "Timestamp": 1706941608000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -1687,7 +1687,7 @@
     "Platform": "ST",
     "Timestamp": 1705709930000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -1697,7 +1697,7 @@
     "Platform": "ST",
     "Timestamp": 1710740978000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -1717,7 +1717,7 @@
     "Platform": "ST",
     "Timestamp": 1696681591000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -1727,7 +1727,7 @@
     "Platform": "ST",
     "Timestamp": 1699777331000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 2
   },
   {
     "Category": "SolarSystem",
@@ -1737,7 +1737,7 @@
     "Platform": "PS",
     "Timestamp": 1699449541000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -1747,7 +1747,7 @@
     "Platform": "PS",
     "Timestamp": 1700297365000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -1767,7 +1767,7 @@
     "Platform": "ST",
     "Timestamp": 1706459870000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -1777,7 +1777,7 @@
     "Platform": "XB",
     "Timestamp": 1704835378000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -1787,7 +1787,7 @@
     "Platform": "NI",
     "Timestamp": 1703306919000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 3
   },
   {
     "Category": "SolarSystem",
@@ -1797,7 +1797,7 @@
     "Platform": "ST",
     "Timestamp": 1699777292000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -1807,7 +1807,7 @@
     "Platform": "PS",
     "Timestamp": 1699944542000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -1817,7 +1817,7 @@
     "Platform": "XB",
     "Timestamp": 1706566192000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -1827,7 +1827,7 @@
     "Platform": "XB",
     "Timestamp": 1706836172000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -1837,7 +1837,7 @@
     "Platform": "ST",
     "Timestamp": 1697749885000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -1847,7 +1847,7 @@
     "Platform": "ST",
     "Timestamp": 1706691861000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 2
   },
   {
     "Category": "SolarSystem",
@@ -1857,7 +1857,7 @@
     "Platform": "ST",
     "Timestamp": 1699809306000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 2
   },
   {
     "Category": "SolarSystem",
@@ -1867,7 +1867,7 @@
     "Platform": "XB",
     "Timestamp": 1698168799000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 2
   },
   {
     "Category": "SolarSystem",
@@ -1877,7 +1877,7 @@
     "Platform": "ST",
     "Timestamp": 1697326517000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -2098,16 +2098,6 @@
     "Timestamp": 1704235657000,
     "Correctly Prefixed": false,
     "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "Uliutchu",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "004FA21107FE",
-    "Platform": "ST",
-    "Timestamp": 1716586192000,
-    "Correctly Prefixed": false,
-    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -2657,7 +2647,7 @@
     "Platform": "ST",
     "Timestamp": 1706695700000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -2667,7 +2657,7 @@
     "Platform": "ST",
     "Timestamp": 1696106324000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -2677,7 +2667,7 @@
     "Platform": "GX",
     "Timestamp": 1696618080000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2687,7 +2677,7 @@
     "Platform": "ST",
     "Timestamp": 1716048254000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 3
   },
   {
     "Category": "SolarSystem",
@@ -2697,7 +2687,7 @@
     "Platform": "XB",
     "Timestamp": 1704835592000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2707,7 +2697,7 @@
     "Platform": "XB",
     "Timestamp": 1704846839000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 2
   },
   {
     "Category": "SolarSystem",
@@ -2737,7 +2727,7 @@
     "Platform": "ST",
     "Timestamp": 1696104049000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -2757,7 +2747,7 @@
     "Platform": "ST",
     "Timestamp": 1711915123000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -2767,7 +2757,7 @@
     "Platform": "ST",
     "Timestamp": 1718473362000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 3
   },
   {
     "Category": "SolarSystem",
@@ -2777,7 +2767,7 @@
     "Platform": "PS",
     "Timestamp": 1706431579000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2787,7 +2777,7 @@
     "Platform": "XB",
     "Timestamp": 1704835566000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 2
   },
   {
     "Category": "SolarSystem",
@@ -2797,7 +2787,7 @@
     "Platform": "XB",
     "Timestamp": 1704846897000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -2807,7 +2797,7 @@
     "Platform": "XB",
     "Timestamp": 1704237087000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2817,7 +2807,7 @@
     "Platform": "ST",
     "Timestamp": 1696849772000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2827,7 +2817,7 @@
     "Platform": "ST",
     "Timestamp": 1706693502000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 3
   },
   {
     "Category": "SolarSystem",
@@ -2837,7 +2827,7 @@
     "Platform": "ST",
     "Timestamp": 1716047719000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2847,7 +2837,7 @@
     "Platform": "ST",
     "Timestamp": 1716047505000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 3
   },
   {
     "Category": "SolarSystem",
@@ -2867,7 +2857,7 @@
     "Platform": "ST",
     "Timestamp": 1696801307000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -2877,7 +2867,7 @@
     "Platform": "XB",
     "Timestamp": 1704835167000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 3
   },
   {
     "Category": "SolarSystem",
@@ -2887,7 +2877,7 @@
     "Platform": "XB",
     "Timestamp": 1704236655000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2897,7 +2887,7 @@
     "Platform": "ST",
     "Timestamp": 1710095511000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -3137,7 +3127,7 @@
     "Platform": "ST",
     "Timestamp": 1695798964000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -3167,7 +3157,7 @@
     "Platform": "ST",
     "Timestamp": 1700345529000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 2
   },
   {
     "Category": "SolarSystem",
@@ -3197,7 +3187,7 @@
     "Platform": "ST",
     "Timestamp": 1695750538000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 3
   },
   {
     "Category": "SolarSystem",
@@ -3217,7 +3207,7 @@
     "Platform": "ST",
     "Timestamp": 1700345513000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
