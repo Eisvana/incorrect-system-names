@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "transform": "deno run --allow-write dataTransform/transform.ts"
+  }
+}
