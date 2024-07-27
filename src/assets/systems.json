@@ -1,86 +1,6 @@
 [
   {
     "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "randomsguy9454",
-    "Glyphs": "0001A21117FF",
-    "Platform": "XB",
-    "Timestamp": 1695751920000,
-    "Correctly Prefixed": false,
-    "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "Damalvina",
-    "Glyphs": "000DA21117FF",
-    "Platform": "ST",
-    "Timestamp": 1704275396000,
-    "Correctly Prefixed": false,
-    "Planets": 5
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "randomsguy9454",
-    "Glyphs": "0020A21117FF",
-    "Platform": "XB",
-    "Timestamp": 1704847413000,
-    "Correctly Prefixed": false,
-    "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "Damalvina",
-    "Glyphs": "002FA21117FF",
-    "Platform": "ST",
-    "Timestamp": 1704277146000,
-    "Correctly Prefixed": false,
-    "Planets": 5
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "randomsguy9454",
-    "Glyphs": "003FA21117FF",
-    "Platform": "XB",
-    "Timestamp": 1704835867000,
-    "Correctly Prefixed": false,
-    "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "randomsguy9454",
-    "Glyphs": "0044A21117FF",
-    "Platform": "XB",
-    "Timestamp": 1704845803000,
-    "Correctly Prefixed": false,
-    "Planets": 5
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "randomsguy9454",
-    "Glyphs": "004DA21117FF",
-    "Platform": "XB",
-    "Timestamp": 1704845621000,
-    "Correctly Prefixed": false,
-    "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "Traevis",
-    "Glyphs": "0075A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1696103631000,
-    "Correctly Prefixed": false,
-    "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
     "Name": "Newsbu-Losu VII",
     "Discoverer": "Goose of the wired",
     "Glyphs": "0076A21117FF",
@@ -103,49 +23,9 @@
     "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "randomsguy9454",
-    "Glyphs": "0081A21117FF",
-    "Platform": "XB",
-    "Timestamp": 1704845593000,
-    "Correctly Prefixed": false,
-    "Planets": 3
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "randomsguy9454",
     "Glyphs": "0087A21117FF",
     "Platform": "XB",
     "Timestamp": 1704853628000,
-    "Correctly Prefixed": false,
-    "Planets": 3
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "randomsguy9454",
-    "Glyphs": "008DA21117FF",
-    "Platform": "XB",
-    "Timestamp": 1704835817000,
-    "Correctly Prefixed": false,
-    "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "randomsguy9454",
-    "Glyphs": "0090A21117FF",
-    "Platform": "XB",
-    "Timestamp": 1704835785000,
-    "Correctly Prefixed": false,
-    "Planets": 3
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "randomsguy9454",
-    "Glyphs": "0096A21117FF",
-    "Platform": "XB",
-    "Timestamp": 1704835956000,
     "Correctly Prefixed": false,
     "Planets": 3
   },
@@ -156,26 +36,6 @@
     "Glyphs": "0098A21117FF",
     "Platform": "XB",
     "Timestamp": 1709498203000,
-    "Correctly Prefixed": false,
-    "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "randomsguy9454",
-    "Glyphs": "00ADA21117FF",
-    "Platform": "XB",
-    "Timestamp": 1704853658000,
-    "Correctly Prefixed": false,
-    "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "randomsguy9454",
-    "Glyphs": "00C5A21117FF",
-    "Platform": "XB",
-    "Timestamp": 1704845419000,
     "Correctly Prefixed": false,
     "Planets": 6
   },
@@ -198,26 +58,6 @@
     "Timestamp": 1706964166000,
     "Correctly Prefixed": false,
     "Planets": 4
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "randomsguy9454",
-    "Glyphs": "00E8A21117FF",
-    "Platform": "XB",
-    "Timestamp": 1704845518000,
-    "Correctly Prefixed": false,
-    "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "randomsguy9454",
-    "Glyphs": "00EAA21117FF",
-    "Platform": "XB",
-    "Timestamp": 1704835916000,
-    "Correctly Prefixed": false,
-    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -258,16 +98,6 @@
     "Timestamp": 1700960052000,
     "Correctly Prefixed": false,
     "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "randomsguy9454",
-    "Glyphs": "0117A21117FF",
-    "Platform": "XB",
-    "Timestamp": 1704845775000,
-    "Correctly Prefixed": false,
-    "Planets": 3
   },
   {
     "Category": "SolarSystem",
@@ -322,16 +152,6 @@
   {
     "Category": "SolarSystem",
     "Name": "",
-    "Discoverer": "randomsguy9454",
-    "Glyphs": "015EA21117FF",
-    "Platform": "XB",
-    "Timestamp": 1704845720000,
-    "Correctly Prefixed": false,
-    "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
     "Discoverer": "Gennie",
     "Glyphs": "0164A21117FF",
     "Platform": "ST",
@@ -381,31 +201,11 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV5-17F Nicened",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "017FA21117FF",
-    "Platform": "PS",
-    "Timestamp": 1697644493000,
-    "Correctly Prefixed": false,
-    "Planets": 2
-  },
-  {
-    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "Mimikyu1312",
     "Glyphs": "018EA21117FF",
     "Platform": "ST",
     "Timestamp": 1695781880000,
-    "Correctly Prefixed": false,
-    "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "randomsguy9454",
-    "Glyphs": "0190A21117FF",
-    "Platform": "XB",
-    "Timestamp": 1704845944000,
     "Correctly Prefixed": false,
     "Planets": 6
   },
@@ -441,23 +241,13 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV1-1Cthree Epusca I",
+    "Name": "EV1-1 C 3 Epusca I",
     "Discoverer": "cassiddidy",
     "Glyphs": "01C3A21117FF",
     "Platform": "PS",
-    "Timestamp": 1697430750000,
+    "Timestamp": 1722039825000,
     "Correctly Prefixed": false,
     "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "randomsguy9454",
-    "Glyphs": "01D9A21117FF",
-    "Platform": "XB",
-    "Timestamp": 1704847316000,
-    "Correctly Prefixed": false,
-    "Planets": 5
   },
   {
     "Category": "SolarSystem",
@@ -561,23 +351,13 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "EV-2 10D Niykhal",
     "Discoverer": "Traevis",
     "Glyphs": "010DA11117FF",
     "Platform": "ST",
-    "Timestamp": 1696103608000,
+    "Timestamp": 1721973356000,
     "Correctly Prefixed": false,
     "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "[EV2-165] Mytiiak",
-    "Discoverer": "BestLegend134",
-    "Glyphs": "0165A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1697072640000,
-    "Correctly Prefixed": false,
-    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -1731,23 +1511,13 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV5-1C2+1 Tizanilo",
+    "Name": "EV5-1 C 3 Tizanilo",
     "Discoverer": "cassiddidy",
     "Glyphs": "01C3A21107FF",
     "Platform": "PS",
-    "Timestamp": 1699449541000,
+    "Timestamp": 1722039425000,
     "Correctly Prefixed": false,
     "Planets": 5
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "EV5-1C",
-    "Discoverer": "cassiddidy",
-    "Glyphs": "01CBA21107FF",
-    "Platform": "PS",
-    "Timestamp": 1700297365000,
-    "Correctly Prefixed": false,
-    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -2351,16 +2121,6 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV6-",
-    "Discoverer": "Spinova_",
-    "Glyphs": "00C0A21107FE",
-    "Platform": "PS",
-    "Timestamp": 1720988873000,
-    "Correctly Prefixed": false,
-    "Planets": 1
-  },
-  {
-    "Category": "SolarSystem",
     "Name": "EV6- C1 Roriaxus",
     "Discoverer": "Lianeras",
     "Glyphs": "00C1A21107FE",
@@ -2912,42 +2672,12 @@
   {
     "Category": "SolarSystem",
     "Name": "",
-    "Discoverer": "sskeen",
-    "Glyphs": "0012A21117FE",
-    "Platform": "ST",
-    "Timestamp": 1696371408000,
-    "Correctly Prefixed": false,
-    "Planets": 0
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
     "Discoverer": "HumidRose74590",
     "Glyphs": "0053A21117FE",
     "Platform": "XB",
     "Timestamp": 1704235945000,
     "Correctly Prefixed": false,
     "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "sskeen",
-    "Glyphs": "0058A21117FE",
-    "Platform": "ST",
-    "Timestamp": 1696371383000,
-    "Correctly Prefixed": false,
-    "Planets": 4
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "sskeen",
-    "Glyphs": "0059A21117FE",
-    "Platform": "ST",
-    "Timestamp": 1696371376000,
-    "Correctly Prefixed": false,
-    "Planets": 0
   },
   {
     "Category": "SolarSystem",
