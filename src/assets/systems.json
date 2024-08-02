@@ -31,16 +31,6 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV1-C1 Benathiak",
-    "Discoverer": "Damalvina",
-    "Glyphs": "00CBA21117FF",
-    "Platform": "ST",
-    "Timestamp": 1706964166000,
-    "Correctly Prefixed": false,
-    "Planets": 4
-  },
-  {
-    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "BrokenNocturne",
     "Glyphs": "00F8A21117FF",
@@ -78,16 +68,6 @@
     "Timestamp": 1700960052000,
     "Correctly Prefixed": false,
     "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "aragunde",
-    "Glyphs": "0139A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1700162458000,
-    "Correctly Prefixed": false,
-    "Planets": 0
   },
   {
     "Category": "SolarSystem",
@@ -151,11 +131,11 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
+    "Name": "Koyleroy IV",
     "Discoverer": "Damalvina",
     "Glyphs": "0194A21117FF",
     "Platform": "ST",
-    "Timestamp": 1704275519000,
+    "Timestamp": 1722530281000,
     "Correctly Prefixed": false,
     "Planets": 2
   },
@@ -662,16 +642,6 @@
   {
     "Category": "SolarSystem",
     "Name": "",
-    "Discoverer": "aragunde",
-    "Glyphs": "0031A21107FF",
-    "Platform": "ST",
-    "Timestamp": 1700317053000,
-    "Correctly Prefixed": false,
-    "Planets": 5
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
     "Discoverer": "Yonahoy",
     "Glyphs": "0036A21107FF",
     "Platform": "PS",
@@ -716,16 +686,6 @@
     "Glyphs": "0067A21107FF",
     "Platform": "ST",
     "Timestamp": 1699788961000,
-    "Correctly Prefixed": false,
-    "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "aragunde",
-    "Glyphs": "0074A21107FF",
-    "Platform": "ST",
-    "Timestamp": 1705165861000,
     "Correctly Prefixed": false,
     "Planets": 6
   },
@@ -871,11 +831,11 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV5 - D2 Susiiakhta",
+    "Name": "Susiiakhta",
     "Discoverer": "Damalvina",
     "Glyphs": "00D2A21107FF",
     "Platform": "ST",
-    "Timestamp": 1706693008000,
+    "Timestamp": 1722530086000,
     "Correctly Prefixed": false,
     "Planets": 6
   },
@@ -1241,11 +1201,11 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV5 - 1FE Tagovoye",
+    "Name": "Tagovoye",
     "Discoverer": "Damalvina",
     "Glyphs": "01FEA21107FF",
     "Platform": "ST",
-    "Timestamp": 1706691861000,
+    "Timestamp": 1722530291000,
     "Correctly Prefixed": false,
     "Planets": 2
   },
@@ -1941,11 +1901,11 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV6 - 1A4 Shunafu",
+    "Name": "Shunafu",
     "Discoverer": "Damalvina",
     "Glyphs": "01A4A21107FE",
     "Platform": "ST",
-    "Timestamp": 1706695700000,
+    "Timestamp": 1722529936000,
     "Correctly Prefixed": false,
     "Planets": 4
   },
@@ -2068,16 +2028,6 @@
     "Timestamp": 1696849772000,
     "Correctly Prefixed": false,
     "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "EV6 - 201 Ideora",
-    "Discoverer": "Damalvina",
-    "Glyphs": "0201A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1706693502000,
-    "Correctly Prefixed": false,
-    "Planets": 3
   },
   {
     "Category": "SolarSystem",
@@ -2272,16 +2222,6 @@
   {
     "Category": "SolarSystem",
     "Name": "",
-    "Discoverer": "aragunde",
-    "Glyphs": "0167A21117FE",
-    "Platform": "ST",
-    "Timestamp": 1700166940000,
-    "Correctly Prefixed": false,
-    "Planets": 0
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
     "Discoverer": "Conte Mascetti",
     "Glyphs": "017EA21117FE",
     "Platform": "ST",
@@ -2371,16 +2311,6 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "aragunde",
-    "Glyphs": "01DAA21117FE",
-    "Platform": "ST",
-    "Timestamp": 1700345529000,
-    "Correctly Prefixed": false,
-    "Planets": 2
-  },
-  {
-    "Category": "SolarSystem",
     "Name": "EV7-1DE-Morrigan",
     "Discoverer": "admiraldeannadark",
     "Glyphs": "01DEA21117FE",
@@ -2418,16 +2348,6 @@
     "Timestamp": 1695800575000,
     "Correctly Prefixed": false,
     "Planets": 0
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "aragunde",
-    "Glyphs": "01F9A21117FE",
-    "Platform": "ST",
-    "Timestamp": 1700345513000,
-    "Correctly Prefixed": false,
-    "Planets": 1
   },
   {
     "Category": "SolarSystem",
