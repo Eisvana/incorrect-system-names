@@ -131,16 +131,6 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "Koyleroy IV",
-    "Discoverer": "Damalvina",
-    "Glyphs": "0194A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1722530281000,
-    "Correctly Prefixed": false,
-    "Planets": 2
-  },
-  {
-    "Category": "SolarSystem",
     "Name": "Uthgat-Mih",
     "Discoverer": "AirosRhyner",
     "Glyphs": "0197A21117FF",
@@ -831,16 +821,6 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "Susiiakhta",
-    "Discoverer": "Damalvina",
-    "Glyphs": "00D2A21107FF",
-    "Platform": "ST",
-    "Timestamp": 1722530086000,
-    "Correctly Prefixed": false,
-    "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "Yonahoy",
     "Glyphs": "00E1A21107FF",
@@ -1198,16 +1178,6 @@
     "Timestamp": 1697749885000,
     "Correctly Prefixed": false,
     "Planets": 5
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "Tagovoye",
-    "Discoverer": "Damalvina",
-    "Glyphs": "01FEA21107FF",
-    "Platform": "ST",
-    "Timestamp": 1722530291000,
-    "Correctly Prefixed": false,
-    "Planets": 2
   },
   {
     "Category": "SolarSystem",
@@ -1901,11 +1871,11 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "Shunafu",
+    "Name": "EV5-1A4 Shunaf",
     "Discoverer": "Damalvina",
     "Glyphs": "01A4A21107FE",
     "Platform": "ST",
-    "Timestamp": 1722529936000,
+    "Timestamp": 1722761390000,
     "Correctly Prefixed": false,
     "Planets": 4
   },
