@@ -11,16 +11,6 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV1-078 Cleatria",
-    "Discoverer": "Mimikyu1312",
-    "Glyphs": "0078A21117FF",
-    "Platform": "ST",
-    "Timestamp": 1695788942000,
-    "Correctly Prefixed": false,
-    "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
     "Name": "EV1-89 Coninu-Ugca XI",
     "Discoverer": "LordDraCool241",
     "Glyphs": "0098A21117FF",
@@ -118,16 +108,6 @@
     "Timestamp": 1709442349000,
     "Correctly Prefixed": false,
     "Planets": 0
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "Mimikyu1312",
-    "Glyphs": "018EA21117FF",
-    "Platform": "ST",
-    "Timestamp": 1695781880000,
-    "Correctly Prefixed": false,
-    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2061,16 +2041,6 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV7-10-Amun Ra",
-    "Discoverer": "admiraldeannadark",
-    "Glyphs": "0010A21117FE",
-    "Platform": "ST",
-    "Timestamp": 1696007720000,
-    "Correctly Prefixed": false,
-    "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "HumidRose74590",
     "Glyphs": "0053A21117FE",
@@ -2118,16 +2088,6 @@
     "Timestamp": 1713217662000,
     "Correctly Prefixed": false,
     "Planets": 0
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "EV7-112-Canterbury",
-    "Discoverer": "admiraldeannadark",
-    "Glyphs": "0112A21117FE",
-    "Platform": "ST",
-    "Timestamp": 1695800264000,
-    "Correctly Prefixed": false,
-    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -2201,16 +2161,6 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV7-188=Serenity",
-    "Discoverer": "admiraldeannadark",
-    "Glyphs": "0188A21117FE",
-    "Platform": "ST",
-    "Timestamp": 1695798266000,
-    "Correctly Prefixed": false,
-    "Planets": 4
-  },
-  {
-    "Category": "SolarSystem",
     "Name": "EV7-19E-Morgaina",
     "Discoverer": "admiraldeannadark",
     "Glyphs": "019EA21117FE",
@@ -2238,16 +2188,6 @@
     "Timestamp": 1696008485000,
     "Correctly Prefixed": false,
     "Planets": 0
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "EV7-1C2-Mayflower",
-    "Discoverer": "admiraldeannadark",
-    "Glyphs": "01C2A21117FE",
-    "Platform": "ST",
-    "Timestamp": 1695798964000,
-    "Correctly Prefixed": false,
-    "Planets": 1
   },
   {
     "Category": "SolarSystem",
