@@ -7,7 +7,7 @@
     "Platform": "ST",
     "Timestamp": 1695750193000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 4
   },
   {
     "Category": "SolarSystem",
@@ -141,41 +141,11 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "ev2-17 Vestvov-Luyk",
-    "Discoverer": "Binder198",
-    "Glyphs": "0017A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712578458000,
-    "Correctly Prefixed": false,
-    "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "Binder198",
     "Glyphs": "0024A11117FF",
     "Platform": "ST",
     "Timestamp": 1700094466000,
-    "Correctly Prefixed": false,
-    "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "Desnour-Nuohe XVII",
-    "Discoverer": "Binder198",
-    "Glyphs": "0041A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1709561189000,
-    "Correctly Prefixed": false,
-    "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "EV2- 66 Ingriv",
-    "Discoverer": "Binder198",
-    "Glyphs": "0066A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1695902251000,
     "Correctly Prefixed": false,
     "Planets": 6
   },
@@ -191,61 +161,21 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "Binder198",
-    "Glyphs": "0090A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1700006253000,
-    "Correctly Prefixed": false,
-    "Planets": 5
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "Menskoye",
-    "Discoverer": "Binder198",
-    "Glyphs": "00A0A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1697462810000,
-    "Correctly Prefixed": false,
-    "Planets": 3
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "Gagari",
-    "Discoverer": "Binder198",
-    "Glyphs": "00D6A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696855405000,
-    "Correctly Prefixed": false,
-    "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "EV1-E8",
+    "Name": "EV2-E8",
     "Discoverer": "Binder198",
     "Glyphs": "00E8A11117FF",
     "Platform": "ST",
-    "Timestamp": 1695754313000,
+    "Timestamp": 1725554318000,
     "Correctly Prefixed": false,
     "Planets": 6
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV2- 102 [Itogor-Arden]",
+    "Name": "EV2- 102 Itogor-Arden",
     "Discoverer": "Binder198",
     "Glyphs": "0102A11117FF",
     "Platform": "ST",
-    "Timestamp": 1695757081000,
-    "Correctly Prefixed": false,
-    "Planets": 6
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "EV2-190Ogoche XIV",
-    "Discoverer": "Binder198",
-    "Glyphs": "0190A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1696199892000,
+    "Timestamp": 1725555051000,
     "Correctly Prefixed": false,
     "Planets": 6
   },
@@ -261,16 +191,6 @@
   },
   {
     "Category": "SolarSystem",
-    "Name": "EV2-1A Emryuc-Zaisa",
-    "Discoverer": "Binder198",
-    "Glyphs": "01AEA11117FF",
-    "Platform": "ST",
-    "Timestamp": 1712492582000,
-    "Correctly Prefixed": false,
-    "Planets": 3
-  },
-  {
-    "Category": "SolarSystem",
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01D3A11117FF",
@@ -278,16 +198,6 @@
     "Timestamp": 1713064720000,
     "Correctly Prefixed": false,
     "Planets": 0
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "",
-    "Discoverer": "Binder198",
-    "Glyphs": "0210A11117FF",
-    "Platform": "ST",
-    "Timestamp": 1708178305000,
-    "Correctly Prefixed": false,
-    "Planets": 6
   },
   {
     "Category": "SolarSystem",
@@ -627,7 +537,7 @@
     "Platform": "ST",
     "Timestamp": 1696947534000,
     "Correctly Prefixed": false,
-    "Planets": 0
+    "Planets": 1
   },
   {
     "Category": "SolarSystem",
@@ -1838,16 +1748,6 @@
     "Timestamp": 1696681262000,
     "Correctly Prefixed": false,
     "Planets": 1
-  },
-  {
-    "Category": "SolarSystem",
-    "Name": "EV5-1A4 Shunaf",
-    "Discoverer": "Damalvina",
-    "Glyphs": "01A4A21107FE",
-    "Platform": "ST",
-    "Timestamp": 1722761390000,
-    "Correctly Prefixed": false,
-    "Planets": 4
   },
   {
     "Category": "SolarSystem",
