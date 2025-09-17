@@ -1,6 +1,8 @@
 import data from './index.json' with { type: 'json' };
 
-const filteredData = data.filter((item) => !item['Correctly Prefixed']);
+const filteredData = data
+  .filter((item) => !item['Correctly Prefixed'])
+  .map(({ Name, Discoverer, Glyphs }) => ({ Name, Discoverer, Glyphs }));
 
 console.log(`${filteredData.length} incorrectly named system(s)`);
 
