@@ -85,21 +85,6 @@
     "Glyphs": "03FBA21117FF"
   },
   {
-    "Name": "EV1-406 Reshnu",
-    "Discoverer": "iggdawg",
-    "Glyphs": "0405A21117FF"
-  },
-  {
-    "Name": "EV3-409 Radofo",
-    "Discoverer": "iggdawg",
-    "Glyphs": "0409A21117FF"
-  },
-  {
-    "Name": "EV3-41C Meforduw",
-    "Discoverer": "iggdawg",
-    "Glyphs": "041CA21117FF"
-  },
-  {
     "Name": "",
     "Discoverer": "Erik",
     "Glyphs": "041DA21117FF"
@@ -118,21 +103,6 @@
     "Name": "",
     "Discoverer": "LordDraCool241",
     "Glyphs": "01D3A11117FF"
-  },
-  {
-    "Name": "2-3E8 Nekurta",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "03E8A11117FF"
-  },
-  {
-    "Name": "EV2-3FE Ratio Mu",
-    "Discoverer": "iggdawg",
-    "Glyphs": "03F9A11117FF"
-  },
-  {
-    "Name": "2-3FB Sukhtar-Kan",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "03FBA11117FF"
   },
   {
     "Name": "EV2-3F(C) Kurskoy XV",
@@ -183,11 +153,6 @@
     "Name": "EV3-3F0 Gomdalumb III",
     "Discoverer": "mobposg",
     "Glyphs": "0409A11127FF"
-  },
-  {
-    "Name": "EV3-40AXenkyer-Aif II",
-    "Discoverer": "Lilac_Chicky",
-    "Glyphs": "040AA11127FF"
   },
   {
     "Name": "EV3-409 Far Xenon IX",
@@ -273,16 +238,6 @@
     "Name": "EV1-204 Pidont",
     "Discoverer": "Lianeras",
     "Glyphs": "0204A21127FF"
-  },
-  {
-    "Name": "EV4-407 Aaning",
-    "Discoverer": "iggdawg",
-    "Glyphs": "0406A21127FF"
-  },
-  {
-    "Name": "EV2-41E Viking Mule",
-    "Discoverer": "iggdawg",
-    "Glyphs": "041EA21127FF"
   },
   {
     "Name": "",
@@ -481,11 +436,6 @@
   },
   {
     "Name": "",
-    "Discoverer": "YucaFrita",
-    "Glyphs": "0177A21107FF"
-  },
-  {
-    "Name": "",
     "Discoverer": "Ronin418",
     "Glyphs": "0178A21107FF"
   },
@@ -610,12 +560,7 @@
     "Glyphs": "0211A21107FF"
   },
   {
-    "Name": "EV6-404 Citgo",
-    "Discoverer": "iggdawg",
-    "Glyphs": "0404A21107FF"
-  },
-  {
-    "Name": "EV6-407 Pukhilk",
+    "Name": "EV6-406 Pukhilk",
     "Discoverer": "iggdawg",
     "Glyphs": "0406A21107FF"
   },
@@ -626,23 +571,8 @@
   },
   {
     "Name": "",
-    "Discoverer": "iggdawg",
-    "Glyphs": "0411A21107FF"
-  },
-  {
-    "Name": "EV5-41D Zodokiat",
-    "Discoverer": "iggdawg",
-    "Glyphs": "041BA21107FF"
-  },
-  {
-    "Name": "",
     "Discoverer": "ahe.jackson",
     "Glyphs": "041DA21107FF"
-  },
-  {
-    "Name": "EV6-421 New Way",
-    "Discoverer": "iggdawg",
-    "Glyphs": "0421A21107FF"
   },
   {
     "Name": "",
@@ -1083,11 +1013,6 @@
     "Name": "EV6-30B Homanis",
     "Discoverer": "LordDraCool241",
     "Glyphs": "040BA21107FE"
-  },
-  {
-    "Name": "EV6-417 Ogorgiel",
-    "Discoverer": "iggdawg",
-    "Glyphs": "0416A21107FE"
   },
   {
     "Name": "",
