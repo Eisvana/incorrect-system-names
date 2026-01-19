@@ -11,7 +11,7 @@ const paramSearch = params.get('name');
 const searchTerm = ref(paramSearch ?? '');
 
 const filteredData = computed(() =>
-  systems.filter((item) => item.Discoverer.toLowerCase().includes(searchTerm.value.toLowerCase()))
+  systems.filter((item) => item.Discoverer.toLowerCase().includes(searchTerm.value.toLowerCase())),
 );
 </script>
 
