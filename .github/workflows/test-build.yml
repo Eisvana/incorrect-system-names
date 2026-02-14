@@ -15,12 +15,12 @@ jobs:
 
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       - name: Run Tests
         run: |
           npm ci
-          npm run lint
+          npm run lint:ci
 
       - name: Test Build
         uses: Lenni009/test-build-vite-action@main

@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import { ref, computed } from 'vue';
-import systems from './assets/systems.json';
+import { computed, ref } from 'vue';
 import ListItem from './components/ListItem.vue';
+import systems from './assets/systems.json';
 
-const url = window.location;
+const url = globalThis.location;
 const params = new URLSearchParams(url.search);
 
 const paramSearch = params.get('name');
@@ -11,7 +11,7 @@ const paramSearch = params.get('name');
 const searchTerm = ref(paramSearch ?? '');
 
 const filteredData = computed(() =>
-  systems.filter((item) => item.Discoverer.toLowerCase().includes(searchTerm.value.toLowerCase()))
+  systems.filter((item) => item.Discoverer.toLowerCase().includes(searchTerm.value.toLowerCase())),
 );
 </script>
 

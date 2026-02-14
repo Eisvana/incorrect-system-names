@@ -1,6 +1,6 @@
 <script setup lang="ts">
+import { computed, ref, watchEffect } from 'vue';
 import { getPrefix } from '@/helpers/prefix';
-import { watchEffect, computed, ref } from 'vue';
 
 const props = defineProps<{
   data: {

@@ -4,6 +4,4 @@ const filteredData = data
   .filter((item) => !item['Correctly Prefixed'])
   .map(({ Name, Discoverer, Glyphs }) => ({ Name, Discoverer, Glyphs }));
 
-console.log(`${filteredData.length} incorrectly named system(s)`);
-
 Deno.writeTextFileSync('src/assets/systems.json', JSON.stringify(filteredData, null, 2));
