@@ -17,7 +17,7 @@
     "@picocss/pico": "^2.1.1"
   },
   "devDependencies": {
-    "@types/node": "^25.9.3",
+    "@types/node": "^26.0.0",
     "@vitejs/plugin-vue": "^6.0.7",
     "oxfmt": "^0.53.0",
     "oxlint": "^1.68.0",
